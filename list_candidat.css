@@ -1,0 +1,42 @@
+.candidate-listing {
+    margin-top: 20px;
+}
+
+.candidate-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.candidate-table thead th {
+    background-color: #f5f5f5;
+    color: #333;
+    font-weight: bold;
+    padding: 10px;
+    text-align: left;
+    border-bottom: 2px solid #ddd;
+}
+
+.candidate-table tbody td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.candidate-table tbody tr:hover {
+    background-color: #f9f9f9;
+}
+
+.candidate-table tbody a {
+    color: #0073aa;
+    text-decoration: none;
+}
+
+.candidate-table tbody a:hover {
+    text-decoration: underline;
+}
+
+.no-candidates {
+    font-style: italic;
+    color: #666;
+    margin-top: 10px;
+}

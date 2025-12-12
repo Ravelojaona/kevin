@@ -1,0 +1,15 @@
+#form-message.success {
+    color: green;
+    background-color: #e0f7e9; /* Light green background */
+    border: 1px solid green;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#form-message.error {
+    color: red;
+    background-color: #fddede; /* Light red background */
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 5px;
+}
