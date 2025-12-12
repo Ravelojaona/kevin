@@ -1,0 +1,19 @@
+{
+    "name": "faby-dev/sbs_jobs",
+    "description": "A WordPress plugin for managing job offers and applications.",
+    "license": "GPL-2.0",
+    "autoload": {
+        "psr-4": {
+            "SbsJobs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "faby-dev",
+            "email": "fabyandriamparany.7@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3"
+    }
+}
